@@ -7,6 +7,7 @@ const largestNumber = (nums) => {
         console.log(ba - ab)
         return ba - ab
     })
+
     const joined = sorted.join('')
     if(parseInt(joined) == 0) {
         return '0'
@@ -16,3 +17,4 @@ const largestNumber = (nums) => {
 }
 let exp = [3, 9, 12, 5, 23]
 console.log(largestNumber(exp))
+console.log(typeof(largestNumber(exp)))

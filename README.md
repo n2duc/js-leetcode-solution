@@ -1,5 +1,6 @@
 ## LeetCode Challenge
-Join the algorithm with [LeetCode](http://leetcode.com/)
+Join the algorithm with [LeetCode](http://leetcode.com/).
+
 `JavaScript` is the best Programing Language
 ```js
 console.log('Hello World!!')
